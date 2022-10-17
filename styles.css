@@ -1,0 +1,11 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #222;
+}
+ul,
+ol {
+  padding-left: 2em;
+}
+ul {
+  list-style-type: circle;
+}
